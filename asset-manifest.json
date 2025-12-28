@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cybertron/static/css/main.66f7ec40.css",
+    "main.js": "/cybertron/static/js/main.15dc2e0a.js",
+    "index.html": "/cybertron/index.html",
+    "main.66f7ec40.css.map": "/cybertron/static/css/main.66f7ec40.css.map",
+    "main.15dc2e0a.js.map": "/cybertron/static/js/main.15dc2e0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f7ec40.css",
+    "static/js/main.15dc2e0a.js"
+  ]
+}
